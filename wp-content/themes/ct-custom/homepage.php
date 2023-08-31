@@ -69,7 +69,7 @@ get_header();
             <div class="col-md-6">
         
             <div id="contact-info pt-5">
-                <h2>React Us</h2>
+                <h2>Contact Information</h2>
         <?php if (!empty($phone_number)): ?>
             <p>Phone: <?php echo esc_html($phone_number); ?></p>
         <?php endif; ?>

@@ -24,7 +24,7 @@
 			<span class="sep"> | </span>
 				<?php
 				/* translators: 1: Theme name, 2: Theme author. */
-				printf( esc_html__( 'Theme: %1$s by %2$s.', 'ct-custom' ), 'ct-custom', '<a href="https://coalitiontechnologies.com/">Coalition Technologies</a>' );
+				printf( esc_html__( 'Theme: %1$s by %2$s.', 'ct-custom' ), 'mas-custom', '<a href="https://muhammad-ali-sardar.netlify.app/">MAS Technologies</a>' );
 				?>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->	
